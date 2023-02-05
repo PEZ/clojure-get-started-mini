@@ -1,6 +1,6 @@
 # Minimal Clojure project for web based development
 
-This is a mini(mal) [Clojure](https://clojure.org) project that you can hack on, with full editor tooling, in the browser. It's VS Code with [Calva](https:/calva.io) running in [GitPod](https://gitpod.io). You'll need a Github account, that's all.
+This is a mini(mal) [Clojure](https://clojure.org) project that you can hack on, with full editor tooling, in the browser. It's VS Code with [Calva](https:/calva.io) running in [GitPod](https://gitpod.io). You don't need to install anything. You'll need a Github account, that's all.
 
 You can of course also hack on it locally on your machine. Then you need to have Java installed.
 
