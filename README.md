@@ -26,6 +26,12 @@ Hack away.
 
 There is not much guidance in this repository for Clojure beginners. You might want to check out this guide first: https://calva.io/get-started-with-clojure/ (It also runs in the browser)
 
+## Create your own copy of this repository
+
+In order to be able to version control your edits, you will need to create your own copy of this repository. It's a template project so you can use the green **Use this Template** button above for this.
+
+**Note** that then the URL to use the project in Gitpod changes. What you'll need to do is to prepend the URL of your Github repository copy with `https://gitpod.io/#`. (If you look at step one above, you'll see that this is what that link looks like.)
+
 ## License
 
 The code in this project is open and free to use as you wish. 🗽🍺 (There's not much code here, anyway. 😄)
