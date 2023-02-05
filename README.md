@@ -17,8 +17,7 @@ To use this in the browser.
    * Choose the `deps.edn` project type.
    * This will start the Clojure REPL and connect Calva to it.
 1. Open the file [src/hello/core.clj](src/hello/core.clj)
-1. Run the VS Code command **Calva: Load/Evaluate Current File**
-   * This will load/evaluate the Clojure code in the file in the Clojure REPL
+1. Evaluate the `(ns ...)` form there (instructions in the file)
 
 Hack away.
 
