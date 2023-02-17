@@ -50,7 +50,7 @@ With Clojure you hack on the running program that you are developing. You start 
 1. From the VS Code command palette, use the command **Start a REPL in your Project and Connect (aka Jack-in)**.
    * Choose the `deps.edn` project type.
    * This will start the Clojure REPL and connect Calva to it. **Note**: It will open the Calva Output/REPL window. This has a prompt to the REPL, but _it is not **the REPL**_. You are encourage to use the REPL directlty from the source files. Hence:
-1. Open the file [src/hello/core.clj](src/hello/core.clj)
+1. Open the file [src/mini/hello.clj](src/mini/hello.clj)
    * There are some instructions in this file for how to evaluate code.
 
 From here you can modify the program, while it is running, to something more interesting than it is currently. A very small step from Hello World, there is Fizz Buzz. Please see this video for an example of how to use the REPL for Interactive Programming:

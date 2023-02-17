@@ -1,4 +1,4 @@
-(ns hello.core)
+(ns mini.hello)
 
 ;; Start by loading this file in the REPL: Ctrl+Alt+C, ENTER
 ;; (Alt is labeled `option` or `opt` on many Macs)
