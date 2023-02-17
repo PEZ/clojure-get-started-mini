@@ -4,7 +4,7 @@ This is a mini(mal) [Clojure](https://clojure.org) project that you can start ha
 
 ## Usage
 
-Depending wether you us this in the web browser or on your computer the initial steps differ:
+Depending wether you will use this in the web browser or on your computer the initial steps differ:
 
 <table>
   <colgroup>
