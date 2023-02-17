@@ -24,9 +24,10 @@ Depending wether you will use this in the web browser or on your computer the in
    <tbody>
      <tr valign="top">
        <td>
+
 When used in the browser all you need is a Github account, that's all.
 
-[Open this project in Gitpod](https://gitpod.io/#https://github.com/PEZ/minimal-clojure)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/PEZ/minimal-clojure)
 
 You will be prompted to log in, choose to use Github login.
 
@@ -99,9 +100,8 @@ This will depend on what your goal is. If you want to:
 
 _If you are using the this repository from the browser_: In order to be able to version control your edits, you will need to create your own copy of this repository. It's a template project so you can use the green **Use this Template** button above for this.
 
-**Note** that then the URL to use the project in Gitpod changes. What you'll need to do is to prepend the URL of your Github repository copy with `https://gitpod.io/#`. (If you look at step one above, you'll see that this is what that link looks like.)
-
-**Note** that the first time you open your copy in Gitpod, it can take quite a while.
+* **Note**: The URL to use the project in Gitpod changes. What you'll need to do is to prepend the URL of your Github repository copy with `https://gitpod.io/#`. (If you look at the link for the **Open in Gitpod** button above, you'll see that this is how it is constructed.)
+* **Note**: The first time you open your copy in Gitpod, it can take quite a while.
 
 ## License
 
