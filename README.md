@@ -1,4 +1,4 @@
-# Clojure Get Started Mini(mal) Project Template
+# Clojure Get Started Mini(mal) Project
 
 This is a mini(mal) [Clojure](https://clojure.org) project that you can start hacking from. The instructions are for using [Calva](https:/calva.io), a Clojure IDE for Visual Studio Code. You can use it both in VS Code on your machine or directly in the browser, with full editor tooling.
 
