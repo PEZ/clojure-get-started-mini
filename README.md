@@ -73,15 +73,18 @@ You can read a bit about this guide here: https://calva.io/get-started-with-cloj
 
 This will depend on what your goal is. If you want to:
 
-* Be inspired by cool videos about Clojure, see the Youtube channel [On The Code Again](https://www.youtube.com/@onthecodeagain)
-* Learn Clojure in an entertaining way, go read [Clojure for the Brave and True](https://www.braveclojure.com/)
-* Start a new app or library, from scratch or from templates, check out [deps-new](https://github.com/seancorfield/deps-new)
-* Start a new full stack app with batteries and opinions included, try [Kit Framework](https://kit-clj.github.io/)
-* Create a Single Page Application, see [Kit Framework](https://kit-clj.github.io/) (again)
-* Build a cross-platform React Native app from a template, see [React Native using shadow-cljs in 3 minutes](https://github.com/PEZ/rn-rf-shadow)
-* Give your Clojure app a scalable architecture, with a unified REPL experience, see [Polylith](https://polylith.gitbook.io/polylith/)
-* Get your mind blown and start building _fully reactive_ full stack apps focusing almost purely on your problem domain, and _you do not mind cutting yourself on the bleeding edge_, check [Electric Clojure](https://hyperfiddle.notion.site/Electric-Clojure-progress-Dec-2022-5416dda526e24e5ab7ccb7eb48c797ed) out.
-* Get help and ask questions in the friendliest programming community on the planet Earth: [The Clojurians Slack](http://clojurians.net)
+| If you want to...                                            | Check out                                                                                                                                                          |
+| ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Be **inspired** by cool videos about Clojure                 | [On The Code Again](https://www.youtube.com/@onthecodeagain)                                                                                                       |
+| Learn Clojure in an **entertaining** way                      | [Clojure for the Brave and True](https://www.braveclojure.com/)                                                                                                    |
+| Start a **new app** or library, from scratch or from templates | [deps-new](https://github.com/seancorfield/deps-new)                                                                                                             |
+| Start a new full stack app with **batteries and opinions included** | [Kit Framework](https://kit-clj.github.io/)                                                                                                                     |
+| Create a **Single Page Application**                          | [Kit Framework](https://kit-clj.github.io/) (again)                                                                                                               |
+| Build a **mobile** and desktop app from a template            | [React Native using shadow-cljs in 3 minutes](https://github.com/PEZ/rn-rf-shadow)                                                                               |
+| Give your Clojure app a scalable **architecture**             | [Polylith](https://polylith.gitbook.io/polylith/)                                                                                                                 |
+| Get your **mind blown** and start building _fully reactive_ full stack apps focusing almost purely on your problem domain, and _you do not mind cutting yourself on the bleeding edge_ | [Electric Clojure](https://hyperfiddle.notion.site/Electric-Clojure-progress-Dec-2022-5416dda526e24e5ab7ccb7eb48c797ed) |
+| Get help and ask questions in the **friendliest programming community** on the planet Earth | [The Clojurians Slack](http://clojurians.net)                                                                                                                   |
+
 
 ## Create your own copy of this repository
 
