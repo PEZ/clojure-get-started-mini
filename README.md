@@ -49,11 +49,13 @@ With Clojure you hack on the running program that you are developing. You start 
 
 1. From the VS Code command palette, use the command **Start a REPL in your Project and Connect (aka Jack-in)**.
    * Choose the `deps.edn` project type.
-   * This will start the Clojure REPL and connect Calva to it. **Note**: It will open the Calva Output/REPL window. This has a prompt to the REPL, but _it is not **the REPL**_. You are encourage to use the REPL directlty from the source files. Hence:
-1. Open the file [src/mini/hello.clj](src/mini/hello.clj)
-   * There are some instructions in this file for how to evaluate code.
+   * This will start a minimal Clojure program and connect Calva to it.
+   * In fact it will be so minimal that it is _only the Clojure REPL_. To build a larger program ...
+1. Open the file [src/mini/hello.clj](src/mini/hello.clj) and load it in the REPL
+   * (There are instructions in this file for how to do this.)
+   * This will define the function `hello` in the `mini.hello` namespace. Your app now has function! You added it without restating the program.
 
-From here you can modify the program, while it is running, to something more interesting than it is currently. A very small step from Hello World, there is Fizz Buzz. Please see this video for an example of how to use the REPL for Interactive Programming:
+From here you can modify the program further, while it is running, to something more interesting than it is currently with its only function. A very small step from Hello World, there is Fizz Buzz. Please see this video for an example of how to use the REPL for Interactive Programming:
 
 * [Clojure Workflow in VS Code, coding FizzBuzz](https://www.youtube.com/watch?v=d0K1oaFGvuQ)
 
@@ -75,16 +77,17 @@ This will depend on what your goal is. If you want to:
 
 | If you want to...                                            | Check out                                                                                                                                                          |
 | ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Be **inspired** by cool videos about Clojure                 | [On The Code Again](https://www.youtube.com/@onthecodeagain)                                                                                                       |
+| Get help and ask questions in the **friendliest programming community** on the planet Earth | [The Clojurians Slack](http://clojurians.net)                                                                                                                   |
+| Be **inspired** by cool videos about Clojure                 | [On The Code Again Youtube channel](https://www.youtube.com/@onthecodeagain)                                                                                                       |
 | Learn Clojure in an **entertaining** way                      | [Clojure for the Brave and True](https://www.braveclojure.com/)                                                                                                    |
 | Start a **new app** or library, from scratch or from templates | [deps-new](https://github.com/seancorfield/deps-new)                                                                                                             |
 | Start a new full stack app with **batteries and opinions included** | [Kit Framework](https://kit-clj.github.io/)                                                                                                                     |
-| Create a **Single Page Application**                          | [Kit Framework](https://kit-clj.github.io/) (again)                                                                                                               |
-| Build a **mobile** and desktop app from a template            | [React Native using shadow-cljs in 3 minutes](https://github.com/PEZ/rn-rf-shadow)                                                                               |
+| Try a **lean and flexible**, full stack framework, aimed at tiny teams (solo devs even) | [Biff](https://biffweb.com/)                                                                                                                     |
+| Get introduced to **beginner friendly** full stack development | [Donut](https://www.youtube.com/watch?v=PMat9Wdt-pk)                                                                                                                     |
 | Give your Clojure app a scalable **architecture**             | [Polylith](https://polylith.gitbook.io/polylith/)                                                                                                                 |
-| Get your **mind blown** and start building _fully reactive_ full stack apps focusing almost purely on your problem domain, and _you do not mind cutting yourself on the bleeding edge_ | [Electric Clojure](https://hyperfiddle.notion.site/Electric-Clojure-progress-Dec-2022-5416dda526e24e5ab7ccb7eb48c797ed) |
-| Get help and ask questions in the **friendliest programming community** on the planet Earth | [The Clojurians Slack](http://clojurians.net)                                                                                                                   |
-
+| Create a **Single Page Application**                          | [Kit Framework](https://kit-clj.github.io/) (again)                                                                                                               |
+| Build a **mobile** (and desktop) app from a template            | [React Native using shadow-cljs in 3 minutes](https://github.com/PEZ/rn-rf-shadow)                                                                               |
+| Get your **mind blown** and start building _fully reactive_ full stack apps. _You do not mind cutting yourself on the bleeding edge_ | [Electric Clojure](https://hyperfiddle.notion.site/Electric-Clojure-progress-Dec-2022-5416dda526e24e5ab7ccb7eb48c797ed) |
 
 ## Create your own copy of this repository
 
