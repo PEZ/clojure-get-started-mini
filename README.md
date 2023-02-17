@@ -45,7 +45,7 @@ When used on your own machine you will need:
 
 ### Start the minimal program
 
-With Clojure you hack on the running program that you are developing. You start a programming session by starting the program, and it's REPL, then connect your editor to it. With Calva this can be done with a command we refer to as **Jack-in**
+With Clojure you hack on the running program that you are developing. We call this **Interactive Programming** (some refer to it as REPL Driven Development, but it is rather a Developer Driven REPL). You start a programming session by starting the program, and it's REPL, then connect your editor to it. With Calva this can be done with a command we refer to as **Jack-in**
 
 1. From the VS Code command palette, use the command **Start a REPL in your Project and Connect (aka Jack-in)**.
    * Choose the `deps.edn` project type.
