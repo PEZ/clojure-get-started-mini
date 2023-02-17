@@ -1,3 +1,5 @@
 {
   "gitpod.enableReleaseNotes": false,
+  "editor.lightbulb.enabled": false,
+  "editor.hover.delay": 1300,
 }
