@@ -98,7 +98,7 @@ This will depend on what your goal is. If you want to:
 
 ## Create your own copy of this repository
 
-_If you are using the this repository from the browser_: In order to be able to version control your edits, you will need to create your own copy of this repository. It's a template project so you can use the green **Use this Template** button above for this.
+**If you are using this project from the browser**: In order to be able to version control your edits, you will need to create your own copy of the repository. It's a template project so you can use the green **Use this Template** button above for this.
 
 * **Note**: The URL to use the project in Gitpod changes. What you'll need to do is to prepend the URL of your Github repository copy with `https://gitpod.io/#`. (If you look at the link for the **Open in Gitpod** button above, you'll see that this is how it is constructed.)
 * **Note**: The first time you open your copy in Gitpod, it can take quite a while.
